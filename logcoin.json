@@ -1,0 +1,17 @@
+{
+  "name": "LogCoin",
+  "symbol": "LOG",
+  "description": "Logan's Coin",
+  "image": "https://raw.githubusercontent.com/CustomDevv/SolanaToken/refs/heads/main/logcoin.png",
+  "external_url": "https://customdevv.com",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/CustomDevv/SolanaToken/refs/heads/main/logcoin.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
