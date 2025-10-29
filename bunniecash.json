@@ -2,10 +2,10 @@
   "name": "BunnieCash",
   "symbol": "BUNC",
   "description": "BunnieCash (BUNC) — a Solana currency backed by LogCoin (LOG) for fast, friendly payments.",
-  "image": "https://<your-host>/bunniecash-512.png",
+  "image": "https://raw.githubusercontent.com/CustomDevv/SolanaToken/refs/heads/main/bunniecash-512.png",
   "extensions": {
-    "proof_of_reserves": ["https://solscan.io/account/<TREASURY_PUBKEY>"],
-    "website": "https://<your-site>"
+    "proof_of_reserves": ["https://solscan.io/account/CkgUw2cuuy7nVVZzix4TDd8NJm5gmugsagn44VpeMB5j"],
+    "website": "https://github.com/CustomDevv"
   },
   "tags": ["currency", "LOG-backed", "solana"]
 }
